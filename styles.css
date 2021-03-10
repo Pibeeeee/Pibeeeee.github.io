@@ -1,6 +1,7 @@
 body{
     background-color:lightsteelblue;
-    text-align: center;
+    text-align: justify;
+    text-indent: 10px;
     border: 3px solid white;
     margin: 50px;
 }
@@ -10,3 +11,4 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font
 }
+
